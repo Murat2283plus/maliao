@@ -3,4 +3,5 @@
 !*.py
 !*.md
 !*.txt
+!*.ini
 !.gitignore
